@@ -1,6 +1,6 @@
 # TAS Script support for Cemu (and other pc games I guess...)
 Extremely crude but it seems to work fairly well
-Uses a very basic format of the [tiger Format](https://github.com/TigerGold59/electron-tas-ui/blob/master/script-format.md)
+Uses a very basic format of the [Electron TAS UI Format](https://github.com/TigerGold59/electron-tas-ui/blob/master/script-format.md)
 ```scala
 + ON{KEY_ZL} LSTICK{0,32767}
 2 ON{KEY_X}
